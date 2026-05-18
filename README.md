@@ -19,8 +19,11 @@ An AI-powered customer support agent that remembers users across sessions using 
    pip install -r requirements.txt
 ```
 3. Create a `.env` file:
+
 GROQ_API_KEY=your_groq_key
+
 HINDSIGHT_API_KEY=your_hindsight_key
+
 HINDSIGHT_BANK_ID=your_bank_id
 4. Run:
 ```bash
